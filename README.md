@@ -1,4 +1,4 @@
-# ParanoiaNet
+# Illuminaughty
 
 A Python-based tool that generates elaborate, believable conspiracy theories based on user input.
 
